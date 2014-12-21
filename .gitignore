@@ -1,2 +1,4 @@
 problem*
 !problem*.hs
+.idea
+*.iml
